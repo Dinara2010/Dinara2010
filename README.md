@@ -65,13 +65,12 @@ Several bugs were found in the random [online store](https://www.zalando.co.uk/)
 
 Alternatively, check the documents in Google Drive:
 
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/11kZFX5r5FIXkCpCdck_PIO_j9REYkEr1/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1yqgOSFO5KbXsyZfhNdsfk19qbNfNM_xh/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KGYeOp9rOGZdpWZcPPmlfUhyDNMUHnfi/view?usp=sharing).
+  * Bug #1. Check [the screenshot of the bug report in Jira]([https://drive.google.com/file/d/11kZFX5r5FIXkCpCdck_PIO_j9REYkEr1/view?usp=sharing](https://drive.google.com/file/d/1K1n_Tmb13yZaY0E3nhUv2npaekZAra-k/view?usp=sharing).
+  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1vJIcrBqpYqG9l7-zJ2FN73bpfqA2skEO/view?usp=sharing).
+  * Bug #3. Check [the screenshot of the bug report in Jira]([https://drive.google.com/file/d/1KGYeOp9rOGZdpWZcPPmlfUhyDNMUHnfi/view?usp=sharing](https://drive.google.com/file/d/1XfuWCsmiwihG8XpZJ9v6cZvTLYlpm-f7/view?usp=sharing).
 
 ## MySQL Workbench
-I have created several queries in MySQL Workbench.Check out the queries and the database in [this repository](https://github.com/Dinara2010/Portfolio-QA/tree/main/SQL) or on [Google Drive](https://drive.google.com/file/d/1AvTMpCS-tg7OICWzYk6ftGwqoWhCk40F/view?usp=sharing) 
-
+I have created several queries in MySQL Workbench.Check out the queries and the database in [this repository](https://github.com/Dinara2010/Portfolio-QA/tree/main/SQL) or on [Google Drive]([https://drive.google.com/file/d/1AvTMpCS-tg7OICWzYk6ftGwqoWhCk40F/view?usp=sharing](https://drive.google.com/drive/folders/1gqaJu3gAngJL6aluU_rAJP4enhc2sHEr?usp=sharing) 
 
 
 
