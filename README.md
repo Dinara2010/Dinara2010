@@ -11,7 +11,7 @@
   * [My SQL Workbench](#mysql-workbench)
 - [Follow me](#follow-me)
 ## About me
-I am a Manual QA engineer (junior+).
+I am a Manual QA engineer.
 
  In my work I use different types of testing: functional (Smoke Testing, Sanity Testing, Regression Testing, Critical path, Exploratory Testing) and non-functional testing (Usability Testing). I spend most of my time working on functional testing on crowdfunding platforms (Test IO, Utest).
 
